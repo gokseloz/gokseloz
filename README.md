@@ -5,7 +5,7 @@
 <p> - :wrench: Learning JavaScript </p>
 <p> - :mag: Going deep in CSS </p>
 <p> - :flashlight: Getting idea of Web Accessibility and Semantic HTML </p>
-<p> - :books: Learning German </p>
+<p> - :books: Lernen Deutsch </p>
 
 
 ### Language and Tools
