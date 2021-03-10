@@ -2,7 +2,7 @@
 <h3 align="center">Self-taught Frontend Developer 💻 | Bicycle Lover :bicyclist: | Beginner Guitarist :guitar: </h3>
 
 ### Currently
-<p> - :wrench: Learning JavaScript </p>
+<p> - :wrench: Learning & Practising JavaScript </p>
 <p> - :mag: Going deep in CSS </p>
 <p> - :flashlight: Getting idea of Web Accessibility and Semantic HTML </p>
 <p> - :books: Lernen Deutsch </p>
