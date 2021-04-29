@@ -3,7 +3,7 @@
 
 ### Currently
 - Learning ReactJS
-- Practising vanilla JavaScript :wrench:
+- Practising vanilla JavaScript
 - Going deep in CSS :mag: 
 - Getting idea of Web Accessibility and Semantic HTML :flashlight: 
 - Lernen Deutsch :books:
