@@ -4,7 +4,6 @@
 ### Currently
 - Learning React
 - Practising vanilla JavaScript
-- Going deep in CSS :mag: 
 - Getting idea of Web Accessibility and Semantic HTML :flashlight: 
 - Lernen Deutsch :books:
 
