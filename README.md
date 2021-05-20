@@ -2,8 +2,8 @@
 <h3 align="center">Self-taught Frontend Developer 💻 | Bicycle Lover :bicyclist: | Beginner Guitarist :guitar: </h3>
 
 ### Currently
-- Learning React
-- Practising vanilla JavaScript
+- Learning and practicing React
+- Furthering vanilla JavaScript
 - Getting idea of Web Accessibility and Semantic HTML :flashlight: 
 - Lernen Deutsch :books:
 
