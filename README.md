@@ -4,7 +4,7 @@
 ### Currently
 - Learning and practicing React
 - Furthering vanilla JavaScript
-- Getting idea of Web Accessibility and Semantic HTML :flashlight: 
+- Reading about Web Accessibility and Semantic HTML :flashlight: 
 - Lernen Deutsch :books:
 
 
