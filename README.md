@@ -2,8 +2,7 @@
 <h3 align="center">Frontend Developer 💻 | Bicycle Lover :bicyclist: | Beginner Guitarist :guitar: </h3>
 
 ### Currently
-- Learning and practicing React
-- Furthering vanilla JavaScript
+- Furthering vanilla JavaScript & React
 - Reading about Web Accessibility and Semantic HTML :flashlight: 
 - Lernen Deutsch :books:
 
