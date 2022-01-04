@@ -15,6 +15,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/72968539/148053275-ce731e28-6334-478c-aa44-5d3867b008f7.png" alt="git" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/72968539/148053980-4cb59a01-3b60-4176-a046-35d5519899d8.png" alt="git" width="40" height="40"/> </a> 
