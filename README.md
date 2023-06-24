@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋🏽‍♂️ I'm Goksel</h1>
-<h3 align="center">Frontend Developer 💻 | Bicycle Lover :bicyclist: | Beginner Guitarist :guitar: </h3>
+<h3 align="center">Full-stack Developer 💻 | Bicycle Lover :bicyclist: | Beginner Guitarist :guitar: </h3>
 
 ### Currently
 - Furthering vanilla JavaScript & ReactJS
