@@ -2,8 +2,8 @@
 <h3 align="center">Full-stack Developer 💻 | Bicycle Lover :bicyclist: | Beginner Guitarist :guitar: </h3>
 
 ### Currently
-- Furthering vanilla JavaScript & ReactJS
-- Reading about Web Accessibility and Semantic HTML :flashlight: 
+- Getting deeper into Reactjs and Typescript 
+- Keeping myself up to date with new technologies
 - Lernen Deutsch :books:
 
 
